@@ -159,7 +159,7 @@
     python experiments/train_logistic.py
 
     4. Launch Dashboard
-    streamlit run dashboard.py
+    streamlit run app/dashboard.py
 
 🧬 Data Source
 
